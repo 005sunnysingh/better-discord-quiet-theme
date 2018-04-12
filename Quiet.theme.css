@@ -225,8 +225,8 @@ span:not(.spinner-item) {
     height: 100%;
 }
 
-.channel-members::after {
-    content: "Lulu Bella";
+/* .channel-members::after {
+    content: "";
     font-family: "Satisfy";
     color: rgb(141, 32, 54);
     background-color: rgb(25, 25, 27);
@@ -238,7 +238,7 @@ span:not(.spinner-item) {
     font-weight: 700;
     text-align: center;
     line-height: 78px;
-}
+} */
 
 .channel-members .member:hover {
     background: rgba(255, 255, 255, 0.07) !important;
